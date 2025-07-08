@@ -48,7 +48,10 @@ npm start
 
 Depois disso, o app estará disponível em http://localhost:3000
 
-📂 Estrutura do Projeto
+---
+
+##📂 Estrutura do Projeto
+
 ```bash
 📁 public/
 📁 src/
@@ -62,6 +65,7 @@ Depois disso, o app estará disponível em http://localhost:3000
 📄 tsconfig.json
 📄 README.md
 ```
+---
 
 ##👨‍💻 Autor
 Feito por @Txddyt1
