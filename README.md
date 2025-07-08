@@ -44,3 +44,19 @@ npm install
 
 # Inicie a aplicação
 npm start
+```
+
+Depois disso, o app estará disponível em http://localhost:3000
+
+📂 Estrutura do Projeto
+```bash
+src/
+├── components/     # Componentes reutilizáveis (botões, cronômetro, etc.)
+├── pages/          # Páginas principais do projeto
+├── types/          # Tipagens TypeScript
+├── App.tsx         # Componente principal
+└── main.tsx        # Ponto de entrada
+```
+
+👨‍💻 Autor
+Feito com 💻 por @Txddyt1
