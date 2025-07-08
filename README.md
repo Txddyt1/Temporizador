@@ -50,7 +50,7 @@ Depois disso, o app estará disponível em http://localhost:3000
 
 ---
 
-##📂 Estrutura do Projeto
+📂 Estrutura do Projeto
 
 ```bash
 📁 public/
@@ -67,5 +67,4 @@ Depois disso, o app estará disponível em http://localhost:3000
 ```
 ---
 
-##👨‍💻 Autor
-Feito por @Txddyt1
+👨‍💻 Feito por @Txddyt1
