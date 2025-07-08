@@ -50,12 +50,17 @@ Depois disso, o app estará disponível em http://localhost:3000
 
 📂 Estrutura do Projeto
 ```bash
-src/
-├── components/     # Componentes reutilizáveis (botões, cronômetro, etc.)
-├── pages/          # Páginas principais do projeto
+📁 public/
+📁 src/
+├── components/     # Componentes reutilizáveis
+├── pages/          # Páginas principais
 ├── types/          # Tipagens TypeScript
-├── App.tsx         # Componente principal
-└── main.tsx        # Ponto de entrada
+
+📄 .gitignore
+📄 package.json
+📄 package-lock.json
+📄 tsconfig.json
+📄 README.md
 ```
 
 👨‍💻 Autor
