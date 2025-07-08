@@ -63,5 +63,5 @@ Depois disso, o app estará disponível em http://localhost:3000
 📄 README.md
 ```
 
-👨‍💻 Autor
-Feito com 💻 por @Txddyt1
+##👨‍💻 Autor
+Feito por @Txddyt1
